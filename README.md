@@ -46,7 +46,7 @@
 - [x] min-content
 - [x] max-content
 ## SCSS:
-- [ ] Variables
+- [x] Variables
 - [ ] Nesting
 - [ ] Partials
 - [ ] Mixins
