@@ -47,11 +47,11 @@
 - [x] max-content
 ## SCSS:
 - [x] Variables
-- [ ] Nesting
-- [ ] Partials
-- [ ] Mixins
-- [ ] Extend
-- [ ] Responsive Mixins
+- [x] Nesting
+- [x] Partials
+- [x] Mixins
+- [x] Extend
+- [x] Responsive Mixins
 
 ## To Clone:
 
